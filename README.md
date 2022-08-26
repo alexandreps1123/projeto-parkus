@@ -38,3 +38,7 @@ Para executar utilizando o ubuntu, basta navegar até o diretório que contenha 
 $ ./exec.sh
 ```
 Se tudo correr bem no terminal será impresso: "Hello World!".
+
+## Referências
+[Introducao-ao-Shell-Script](https://canaltech.com.br/linux/Introducao-ao-Shell-Script/) fonte que ajudou a escrever o arquivo .sh. Data de acesso:25ago2022
+
