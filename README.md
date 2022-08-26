@@ -1,7 +1,7 @@
 # projeto-parkus
 
 ## Projeto Parkus v0.0.1 
-"Hello World"
+### "Hello World"
 
 A aplicação consiste na impressão de uma mensagem "Hello World!" no terminal do computador.
 
@@ -39,11 +39,10 @@ $ ./exec.sh
 ```
 Se tudo correr bem no terminal será impresso: "Hello World!".
 
-## Referências
-[Introducao-ao-Shell-Script](https://canaltech.com.br/linux/Introducao-ao-Shell-Script/) fonte que ajudou a escrever o arquivo .sh. Data de acesso:25ago2022
-
-
-## Projeto Parkus v0.0.2
+### Tipo de dados, entrada de dados e armazenamento de dados em variável
 
 Introducao de tipo de dado int, classe receber entrada de dados via teclado, armazenar valor em variável e importacao de biblioteca.
+
+## Referências
+[Introducao-ao-Shell-Script](https://canaltech.com.br/linux/Introducao-ao-Shell-Script/) fonte que ajudou a escrever o arquivo .sh. Data de acesso:25ago2022
 
