@@ -9,9 +9,9 @@ Para compilar a aplicação foi gerado um shellscript para automatizar o process
 
 Os comandos que são executados pelo script:
 ```
-javac Main.java
+javac ProjetoParkus.java
 
-java Main
+java ProjetoParkus
 ```
 Para criar o arquivo .sh
 
@@ -21,10 +21,10 @@ Em algum editor de texto basta digitar esses comandos e salvar o arquivo com a e
 #!/bin/bash
 
 #compila
-javac Main.java
+javac ProjetoParkus.java
 
 #executa
-java Main
+java ProjetoParkus
 ```
 
 Nome do arquivo: exec.sh
