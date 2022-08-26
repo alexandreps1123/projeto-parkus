@@ -33,4 +33,4 @@ $ chmod +x exec.sh
 Para executar utilizando o ubuntu, basta navegar até o diretório que contenha o arquivo .sh
 $ sh exec.sh
 
-Se tudo correr bem no terminal será impresso: "Hello Wolrd!".
+Se tudo correr bem no terminal será impresso: "Hello World!".
