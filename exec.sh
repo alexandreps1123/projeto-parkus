@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #compila
-javac Main.java
+javac ProjetoParkus.java
 
 #executa
-java Main
+java ProjetoParkus
