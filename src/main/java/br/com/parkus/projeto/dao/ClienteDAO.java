@@ -8,11 +8,11 @@ public interface ClienteDAO {
 
     public List<ClienteDTO> todos();
 
-    public ClienteDTO buscaPorId(Id id);
+    public ClienteDTO buscaPorId(Integer id);
 
-    public ClienteDTO salva(Filme filme);
+    public ClienteDTO salva(ClienteDTO clienteDTO);
 
-    public ClienteDTO atualiza(Filme filme);
+    public ClienteDTO atualiza(ClienteDTO clienteDTO);
 
-    public void deleta(Id id);
+    public void deleta(Integer id);
 }

@@ -12,22 +12,22 @@ public class ClienteDAOImpl implements ClienteDAO {
     }
 
     @Override
-    public ClienteDTO buscaPorId(Id id) {
+    public ClienteDTO buscaPorId(Integer id) {
         return null;
     }
 
     @Override
-    public ClienteDTO salva(Filme filme) {
+    public ClienteDTO salva(ClienteDTO clienteDTO) {
         return null;
     }
 
     @Override
-    public ClienteDTO atualiza(Filme filme) {
+    public ClienteDTO atualiza(ClienteDTO clienteDTO) {
         return null;
     }
 
     @Override
-    public void deleta(Id id) {
+    public void deleta(Integer id) {
 
     }
 }

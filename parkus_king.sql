@@ -1,8 +1,8 @@
+USE `parkus_king`;
+CREATE DATABASE	`parkus_king`;
+
 CREATE TABLE `usuario` (
-	`id` int NOT NULL,
-	`nome` TEXT NOT NULL,
-	`email` TEXT NOT NULL UNIQUE,
-	PRIMARY KEY (`id`)
+	`id` INTEGER NOT NULL PRIMARY KEY,
+	`nome` VARCHAR(100) NOT NULL,
+	`email` VARCHAR(80) NULL UNIQUE
 );
-
-
